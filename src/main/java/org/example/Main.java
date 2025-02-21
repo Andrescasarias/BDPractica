@@ -16,5 +16,11 @@ public class Main {
         System.out.println("Repasando comandos ");
         System.out.println("Repasando comandos ");
         System.out.println("Repasando comandos ");
+
+        System.out.println("DDL");
+        System.out.println("DML");
+        System.out.println("TCL");
+        System.out.println("Comandos Bases de datos");
+
         }
 }
